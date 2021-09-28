@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+
+while(<>) {
+	s/"//g;
+	printf("%0.0f\n", $_)
+}

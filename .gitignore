@@ -1,1 +1,7 @@
+_contracts
 artifacts/
+cache/
+hardhat.config.js
+lib
+node_modules/
+secret-backup-phrase-recovery-words
